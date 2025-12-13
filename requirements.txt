@@ -3,4 +3,5 @@ pandas
 matplotlib
 scikit-learn
 numpy
+openai
 # Agrega cualquier otro paquete que uses, como numpy, scikit-learn, etc.

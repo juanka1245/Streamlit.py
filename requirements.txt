@@ -1,4 +1,6 @@
 streamlit
 pandas
 matplotlib
+scikit-learn
+numpy
 # Agrega cualquier otro paquete que uses, como numpy, scikit-learn, etc.

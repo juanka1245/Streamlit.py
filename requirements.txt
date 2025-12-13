@@ -1,5 +1,4 @@
 streamlit
 pandas
 matplotlib
-sklearn.model_selection
 # Agrega cualquier otro paquete que uses, como numpy, scikit-learn, etc.

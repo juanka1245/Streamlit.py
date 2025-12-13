@@ -221,4 +221,5 @@ if st.button("Limpiar Chat"):
 
 
 st.markdown("---")
-st.caption("Proyecto ML Avanzado • Pandas • Matplotlib • OpenAI • Streamlit")
+
+
